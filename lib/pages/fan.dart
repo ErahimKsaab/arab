@@ -19,7 +19,7 @@ _incrementCounter(i,value) async {
 int i1;
 int i2;
 int i3;
-
+//ssssssssssssssssssssssssssssssssssssssssssssss
 get()async{
   SharedPreferences prefs = await SharedPreferences.getInstance();
   i1=prefs.get("Fan 1");
